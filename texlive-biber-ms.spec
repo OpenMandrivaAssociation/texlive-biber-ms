@@ -29,8 +29,8 @@ mkdir -p %{buildroot}%{_datadir}
 cp -a texmf-dist %{buildroot}%{_datadir}
 
 %files
-%doc %{_texmfdistdir}/texmf-dist/source/bibtex/biber-ms
-%doc %{_texmfdistdir}/texmf-dist/doc/bibtex/biber-ms
+%doc %{_texmfdistdir}/source/bibtex/biber-ms
+%doc %{_texmfdistdir}/doc/bibtex/biber-ms
 
 %post -p %{_sbindir}/texlive.post
 
