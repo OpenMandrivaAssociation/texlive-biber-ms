@@ -1,6 +1,6 @@
 Name:		texlive-biber-ms
-Version:	64213
-Release:	2
+Version:	66478
+Release:	1
 Summary:	A BibTeX replacement for users of BibLaTeX (multiscript version)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biber-ms
