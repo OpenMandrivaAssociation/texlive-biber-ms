@@ -3,7 +3,7 @@ Version:	66478
 Release:	1
 Summary:	A BibTeX replacement for users of BibLaTeX (multiscript version)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biber-ms
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biber-ms
 License:	artistic2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biber-ms.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biber-ms.doc.r%{version}.tar.xz
